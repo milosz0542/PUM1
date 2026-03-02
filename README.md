@@ -5,6 +5,6 @@ Repozytorium zawiera listy stworzone na rzecz kursu Programowanie Urządzeń Mob
 - [x] Lista 1
 - [x] Lista 2
 - [x] Lista 3
-- [ ] Lista 4
+- [x] Lista 4
 - [ ] Lista 5
 - [ ] Lista 6
